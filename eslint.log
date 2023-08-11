@@ -1,0 +1,539 @@
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/activity1.js
+    8:14   warning  'Pannel' is not defined                                no-undef
+   14:10   warning  'start_act1' is defined but never used                 no-unused-vars
+   21:10   warning  'move_to_activity3' is defined but never used          no-unused-vars
+   24:5    warning  'activity3' is not defined                             no-undef
+   33:5    warning  'global_score' is assigned a value but never used      no-unused-vars
+   34:5    warning  'a1_panel' is defined but never used                   no-unused-vars
+   35:5    warning  'all_text_content' is assigned a value but never used  no-unused-vars
+   36:5    warning  'canvas_box_scale' is already defined                  no-redeclare
+   36:5    warning  'canvas_box_scale' is assigned a value but never used  no-unused-vars
+   39:5    warning  'a1_scene' is defined but never used                   no-unused-vars
+   46:5    warning  'display_score' is defined but never used              no-unused-vars
+   47:5    warning  'timer1' is assigned a value but never used            no-unused-vars
+   65:17   warning  'Scene' is not defined                                 no-undef
+   70:27   warning  'bootstrap' is not defined                             no-undef
+  109:18   warning  'Chemistry' is not defined                             no-undef
+  109:42   warning  'ammeter' is not defined                               no-undef
+  109:55   warning  'Chemistry' is not defined                             no-undef
+  112:9    warning  'sq' is already defined                                no-redeclare
+  112:18   warning  'Chemistry' is not defined                             no-undef
+  112:42   warning  'battery' is not defined                               no-undef
+  112:55   warning  'Chemistry' is not defined                             no-undef
+  115:9    warning  'sq' is already defined                                no-redeclare
+  115:18   warning  'Chemistry' is not defined                             no-undef
+  115:42   warning  'one_way_key' is not defined                           no-undef
+  115:59   warning  'Chemistry' is not defined                             no-undef
+  118:9    warning  'sq' is already defined                                no-redeclare
+  118:18   warning  'Chemistry' is not defined                             no-undef
+  118:42   warning  'resistance' is not defined                            no-undef
+  118:58   warning  'Chemistry' is not defined                             no-undef
+  121:9    warning  'sq' is already defined                                no-redeclare
+  121:18   warning  'Chemistry' is not defined                             no-undef
+  121:42   warning  'rheostat' is not defined                              no-undef
+  121:56   warning  'Chemistry' is not defined                             no-undef
+  124:9    warning  'sq' is already defined                                no-redeclare
+  124:18   warning  'Chemistry' is not defined                             no-undef
+  124:42   warning  'voltmeter' is not defined                             no-undef
+  124:57   warning  'Chemistry' is not defined                             no-undef
+  195:25   warning  'Chemistry' is not defined                             no-undef
+  195:50   warning  'Chemistry' is not defined                             no-undef
+  206:10   warning  'ammeter' is not defined                               no-undef
+  206:19   warning  'ammeter' is not defined                               no-undef
+  207:10   warning  'battery' is not defined                               no-undef
+  207:19   warning  'battery' is not defined                               no-undef
+  208:10   warning  'one_way_key' is not defined                           no-undef
+  208:23   warning  'one_way_key' is not defined                           no-undef
+  209:10   warning  'resistance' is not defined                            no-undef
+  209:22   warning  'resistance' is not defined                            no-undef
+  210:10   warning  'rheostat' is not defined                              no-undef
+  210:20   warning  'rheostat' is not defined                              no-undef
+  211:10   warning  'voltmeter' is not defined                             no-undef
+  211:21   warning  'voltmeter' is not defined                             no-undef
+  214:13   warning  'Chemistry' is not defined                             no-undef
+  214:43   warning  'Chemistry' is not defined                             no-undef
+  215:13   warning  'Chemistry' is not defined                             no-undef
+  215:43   warning  'Chemistry' is not defined                             no-undef
+  216:13   warning  'Chemistry' is not defined                             no-undef
+  216:47   warning  'Chemistry' is not defined                             no-undef
+  217:13   warning  'Chemistry' is not defined                             no-undef
+  217:46   warning  'Chemistry' is not defined                             no-undef
+  218:13   warning  'Chemistry' is not defined                             no-undef
+  218:44   warning  'Chemistry' is not defined                             no-undef
+  219:13   warning  'Chemistry' is not defined                             no-undef
+  219:45   warning  'Chemistry' is not defined                             no-undef
+  224:12   warning  Unexpected constant condition                          no-constant-condition
+  246:49   warning  'Chemistry' is not defined                             no-undef
+  249:39   warning  'bootstrap' is not defined                             no-undef
+  283:30   warning  'Chemistry' is not defined                             no-undef
+  283:73   warning  'Chemistry' is not defined                             no-undef
+  311:13   warning  'bsOffcanvas' is already defined                       no-redeclare
+  311:31   warning  'bootstrap' is not defined                             no-undef
+  313:30   warning  'Chemistry' is not defined                             no-undef
+  313:118  warning  'Chemistry' is not defined                             no-undef
+  356:24   warning  'activity3' is not defined                             no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/activity3.js
+    4:10   warning  'activity3' is defined but never used    no-unused-vars
+    5:5    warning  'pp' is not defined                      no-undef
+    6:5    warning  'pp' is not defined                      no-undef
+    7:5    warning  'pp' is not defined                      no-undef
+    8:5    warning  'pp' is not defined                      no-undef
+   39:5    warning  'pp' is not defined                      no-undef
+   42:5    warning  'pp' is not defined                      no-undef
+   44:5    warning  'pp' is not defined                      no-undef
+   45:5    warning  'canvas' is not defined                  no-undef
+   45:14   warning  'pp' is not defined                      no-undef
+   46:5    warning  'context' is not defined                 no-undef
+   46:15   warning  'canvas' is not defined                  no-undef
+   48:5    warning  'canvas' is not defined                  no-undef
+   49:5    warning  'rect' is not defined                    no-undef
+   49:12   warning  'canvas' is not defined                  no-undef
+   50:5    warning  'scene' is not defined                   no-undef
+   50:17   warning  'Scene' is not defined                   no-undef
+   51:30   warning  'Chemistry' is not defined               no-undef
+   51:54   warning  'assembly' is not defined                no-undef
+   51:68   warning  'Chemistry' is not defined               no-undef
+   51:118  warning  'canvas' is not defined                  no-undef
+   52:22   warning  'Chemistry' is not defined               no-undef
+   52:46   warning  'rheostat_slider' is not defined         no-undef
+   52:67   warning  'Chemistry' is not defined               no-undef
+   52:103  warning  'canvas' is not defined                  no-undef
+   53:5    warning  'scene' is not defined                   no-undef
+   54:5    warning  'scene' is not defined                   no-undef
+   67:5    warning  'scene' is not defined                   no-undef
+   73:5    warning  'canvas' is not defined                  no-undef
+   74:5    warning  'canvas' is not defined                  no-undef
+   74:23   warning  'canvas' is not defined                  no-undef
+   75:5    warning  'lscale' is not defined                  no-undef
+   75:14   warning  'canvas' is not defined                  no-undef
+   77:9    warning  'canvas' is not defined                  no-undef
+   81:5    warning  'context' is not defined                 no-undef
+   81:26   warning  'canvas' is not defined                  no-undef
+   82:5    warning  'context' is not defined                 no-undef
+   88:25   warning  'color_array' is not defined             no-undef
+   89:50   warning  'color_array' is not defined             no-undef
+   92:10   warning  'set_lambda' is defined but never used   no-unused-vars
+   96:5    warning  'selected_lambda' is not defined         no-undef
+   96:34   warning  'drop_down_value' is not defined         no-undef
+   97:5    warning  'selected_slider_val' is not defined     no-undef
+   97:38   warning  'drop_down_value' is not defined         no-undef
+   98:41   warning  'selected_lambda' is not defined         no-undef
+   99:5    warning  'selected_color' is not defined          no-undef
+   99:22   warning  'drop_down_value' is not defined         no-undef
+  105:17   warning  'selected_slider_val' is not defined     no-undef
+  105:38   warning  'selected_color' is not defined          no-undef
+  105:54   warning  'selected_lambda' is not defined         no-undef
+  109:10   warning  'setDistance' is defined but never used  no-unused-vars
+  118:9    warning  'scene' is not defined                   no-undef
+  119:29   warning  'main_table_data' is not defined         no-undef
+  120:17   warning  'main_table_data' is not defined         no-undef
+  123:21   warning  'main_table_data' is not defined         no-undef
+  124:40   warning  'main_table_data' is not defined         no-undef
+  125:40   warning  'main_table_data' is not defined         no-undef
+  126:17   warning  'selected_voltage' is not defined        no-undef
+  126:36   warning  'main_table_data' is not defined         no-undef
+  127:17   warning  'selected_current' is not defined        no-undef
+  127:36   warning  'main_table_data' is not defined         no-undef
+  128:21   warning  'selected_slider_val' is not defined     no-undef
+  130:57   warning  'selected_color' is not defined          no-undef
+  131:38   warning  'selected_color' is not defined          no-undef
+  148:5    warning  'scene' is not defined                   no-undef
+  152:21   warning  'Chemistry' is not defined               no-undef
+  152:45   warning  'led_violet' is not defined              no-undef
+  152:61   warning  'Chemistry' is not defined               no-undef
+  152:113  warning  'canvas' is not defined                  no-undef
+  153:21   warning  'Chemistry' is not defined               no-undef
+  153:45   warning  'led_indigo' is not defined              no-undef
+  153:61   warning  'Chemistry' is not defined               no-undef
+  153:113  warning  'canvas' is not defined                  no-undef
+  154:19   warning  'Chemistry' is not defined               no-undef
+  154:43   warning  'led_blue' is not defined                no-undef
+  154:57   warning  'Chemistry' is not defined               no-undef
+  154:109  warning  'canvas' is not defined                  no-undef
+  155:20   warning  'Chemistry' is not defined               no-undef
+  155:44   warning  'led_green' is not defined               no-undef
+  155:59   warning  'Chemistry' is not defined               no-undef
+  155:111  warning  'canvas' is not defined                  no-undef
+  156:21   warning  'Chemistry' is not defined               no-undef
+  156:45   warning  'led_yellow' is not defined              no-undef
+  156:61   warning  'Chemistry' is not defined               no-undef
+  156:113  warning  'canvas' is not defined                  no-undef
+  157:21   warning  'Chemistry' is not defined               no-undef
+  157:45   warning  'led_orange' is not defined              no-undef
+  157:61   warning  'Chemistry' is not defined               no-undef
+  157:113  warning  'canvas' is not defined                  no-undef
+  158:18   warning  'Chemistry' is not defined               no-undef
+  158:42   warning  'led_red' is not defined                 no-undef
+  158:55   warning  'Chemistry' is not defined               no-undef
+  158:107  warning  'canvas' is not defined                  no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/activity4.js
+   78:10   warning  'activity4' is defined but never used    no-unused-vars
+   79:5    warning  'pp' is not defined                      no-undef
+   80:5    warning  'pp' is not defined                      no-undef
+   81:5    warning  'pp' is not defined                      no-undef
+   82:5    warning  'pp' is not defined                      no-undef
+   84:29   warning  'selected_color' is not defined          no-undef
+   84:45   warning  'selected_lambda' is not defined         no-undef
+   84:73   warning  'selected_slider_val' is not defined     no-undef
+   85:21   warning  'Table' is not defined                   no-undef
+   86:5    warning  'pp' is not defined                      no-undef
+   89:42   warning  'light_velocity' is not defined          no-undef
+   90:18   warning  'e' is not defined                       no-undef
+   94:5    warning  'pp' is not defined                      no-undef
+   95:5    warning  'MathJax' is not defined                 no-undef
+   96:27   warning  'bootstrap' is not defined               no-undef
+   99:10   warning  'act4_verify' is defined but never used  no-unused-vars
+  104:17   warning  'selected_voltage' is not defined        no-undef
+  104:35   warning  'selected_current' is not defined        no-undef
+  104:54   warning  'e' is not defined                       no-undef
+  104:64   warning  'selected_lambda' is not defined         no-undef
+  104:94   warning  'selected_voltage' is not defined        no-undef
+  104:116  warning  'selected_lambda' is not defined         no-undef
+  105:10   warning  'verify_values' is not defined           no-undef
+  105:24   warning  'selected_voltage' is not defined        no-undef
+  109:10   warning  'verify_values' is not defined           no-undef
+  109:24   warning  'selected_current' is not defined        no-undef
+  113:10   warning  'verify_values' is not defined           no-undef
+  113:25   warning  'e' is not defined                       no-undef
+  113:35   warning  'selected_lambda' is not defined         no-undef
+  113:65   warning  'selected_voltage' is not defined        no-undef
+  117:10   warning  'verify_values' is not defined           no-undef
+  117:28   warning  'selected_lambda' is not defined         no-undef
+  125:5    warning  'pp' is not defined                      no-undef
+  126:5    warning  'pp' is not defined                      no-undef
+  127:5    warning  'pp' is not defined                      no-undef
+  128:5    warning  'pp' is not defined                      no-undef
+  130:25   warning  'drop_down_value' is not defined         no-undef
+  133:28   warning  'drop_down_value' is not defined         no-undef
+  134:40   warning  'drop_down_value' is not defined         no-undef
+  135:28   warning  'drop_down_value' is not defined         no-undef
+  136:28   warning  'main_table_data' is not defined         no-undef
+  137:28   warning  'main_table_data' is not defined         no-undef
+  138:30   warning  'e' is not defined                       no-undef
+  138:51   warning  'drop_down_value' is not defined         no-undef
+  138:88   warning  'main_table_data' is not defined         no-undef
+  139:44   warning  'drop_down_value' is not defined         no-undef
+  141:21   warning  'Table' is not defined                   no-undef
+  142:5    warning  'pp' is not defined                      no-undef
+  144:5    warning  'pp' is not defined                      no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/activity5.js
+   3:10  warning  'activity5' is defined but never used  no-unused-vars
+   5:17  warning  'main_table_data' is not defined       no-undef
+   9:5   warning  'pp' is not defined                    no-undef
+  10:5   warning  'pp' is not defined                    no-undef
+  14:25  warning  'data_array' is not defined            no-undef
+  15:31  warning  'data_array' is not defined            no-undef
+  16:19  warning  'main_table_data' is not defined       no-undef
+  31:21  warning  'Chart' is not defined                 no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/activity6.js
+    1:10  warning  'activity6' is defined but never used           no-unused-vars
+    2:5   warning  'pp' is not defined                             no-undef
+    3:5   warning  'pp' is not defined                             no-undef
+    4:5   warning  'pp' is not defined                             no-undef
+   11:34  warning  'Ma' is not defined                             no-undef
+   14:34  warning  'Mc' is not defined                             no-undef
+   22:34  warning  'MW1' is not defined                            no-undef
+   25:34  warning  'MW2' is not defined                            no-undef
+   33:34  warning  'AA' is not defined                             no-undef
+   36:34  warning  'AB' is not defined                             no-undef
+   39:34  warning  'AC' is not defined                             no-undef
+   47:34  warning  'slope1' is not defined                         no-undef
+   50:34  warning  'slope2' is not defined                         no-undef
+   55:5   warning  'pp' is not defined                             no-undef
+   62:24  warning  'Table2' is not defined                         no-undef
+   69:24  warning  'Table2' is not defined                         no-undef
+   76:24  warning  'Table2' is not defined                         no-undef
+   77:5   warning  'pp' is not defined                             no-undef
+   78:5   warning  'pp' is not defined                             no-undef
+   79:5   warning  'pp' is not defined                             no-undef
+   84:5   warning  'pp' is not defined                             no-undef
+   85:17  warning  'mass_comp1' is not defined                     no-undef
+   85:29  warning  'mass_comp2' is not defined                     no-undef
+   85:41  warning  'moles_comp1' is not defined                    no-undef
+   85:54  warning  'moles_comp2' is not defined                    no-undef
+   85:67  warning  'moles_fraction_comp1' is not defined           no-undef
+   85:89  warning  'moles_fraction_comp2' is not defined           no-undef
+   87:10  warning  'verify_act6_inputs' is defined but never used  no-unused-vars
+   94:10  warning  'verify_values' is not defined                  no-undef
+   94:48  warning  'mass_comp1' is not defined                     no-undef
+   98:10  warning  'verify_values' is not defined                  no-undef
+   98:48  warning  'mass_comp2' is not defined                     no-undef
+  102:10  warning  'verify_values' is not defined                  no-undef
+  102:48  warning  'moles_comp1' is not defined                    no-undef
+  106:10  warning  'verify_values' is not defined                  no-undef
+  106:48  warning  'moles_comp2' is not defined                    no-undef
+  110:10  warning  'verify_values' is not defined                  no-undef
+  110:48  warning  'moles_fraction_comp1' is not defined           no-undef
+  114:10  warning  'verify_values' is not defined                  no-undef
+  114:48  warning  'moles_fraction_comp2' is not defined           no-undef
+  119:5   warning  'activity7' is not defined                      no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/activity7.js
+   2:10   warning  'activity7' is defined but never used    no-unused-vars
+   3:5    warning  'pp' is not defined                      no-undef
+   4:5    warning  'pp' is not defined                      no-undef
+   5:5    warning  'pp' is not defined                      no-undef
+   7:30   warning  'composition' is not defined             no-undef
+   7:42   warning  'selected_index' is not defined          no-undef
+   7:59   warning  'calculated_table' is not defined        no-undef
+   7:76   warning  'selected_index' is not defined          no-undef
+   7:107  warning  'calculated_table' is not defined        no-undef
+   7:124  warning  'selected_index' is not defined          no-undef
+   7:155  warning  'calculated_table' is not defined        no-undef
+   7:172  warning  'selected_index' is not defined          no-undef
+   8:24   warning  'Table' is not defined                   no-undef
+   9:5    warning  'pp' is not defined                      no-undef
+  14:19   warning  'A1' is not defined                      no-undef
+  14:31   warning  'A2' is not defined                      no-undef
+  15:19   warning  'B1' is not defined                      no-undef
+  15:31   warning  'B2' is not defined                      no-undef
+  16:19   warning  'C1' is not defined                      no-undef
+  16:31   warning  'C2' is not defined                      no-undef
+  17:18   warning  'P' is not defined                       no-undef
+  26:5    warning  'pp' is not defined                      no-undef
+  28:10   warning  'verify_act7' is defined but never used  no-unused-vars
+  33:10   warning  'verify_values' is not defined           no-undef
+  33:48   warning  'calculated_table' is not defined        no-undef
+  33:65   warning  'selected_index' is not defined          no-undef
+  37:10   warning  'verify_values' is not defined           no-undef
+  37:48   warning  'calculated_table' is not defined        no-undef
+  37:65   warning  'selected_index' is not defined          no-undef
+  41:10   warning  'verify_values' is not defined           no-undef
+  41:48   warning  'calculated_table' is not defined        no-undef
+  41:65   warning  'selected_index' is not defined          no-undef
+  45:10   warning  'verify_values' is not defined           no-undef
+  45:48   warning  'calculated_table' is not defined        no-undef
+  45:65   warning  'selected_index' is not defined          no-undef
+  53:5    warning  'pp' is not defined                      no-undef
+  54:5    warning  'pp' is not defined                      no-undef
+  55:5    warning  'pp' is not defined                      no-undef
+  58:25   warning  'calculated_table' is not defined        no-undef
+  60:34   warning  'composition' is not defined             no-undef
+  61:29   warning  'calculated_table' is not defined        no-undef
+  62:42   warning  'calculated_table' is not defined        no-undef
+  65:24   warning  'Table' is not defined                   no-undef
+  66:5    warning  'pp' is not defined                      no-undef
+  69:10   warning  'selected_index' is not defined          no-undef
+  70:5    warning  'pp' is not defined                      no-undef
+  71:5    warning  'pp' is not defined                      no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/activity8.js
+   1:10  warning  'activity8' is defined but never used  no-unused-vars
+   2:5   warning  'pp' is not defined                    no-undef
+   3:5   warning  'pp' is not defined                    no-undef
+   8:5   warning  'pp' is not defined                    no-undef
+   9:5   warning  'pp' is not defined                    no-undef
+  14:5   warning  'label' is not defined                 no-undef
+  15:5   warning  'graph_data' is not defined            no-undef
+  16:25  warning  'calculated_table' is not defined      no-undef
+  17:9   warning  'label' is not defined                 no-undef
+  17:20  warning  'calculated_table' is not defined      no-undef
+  18:9   warning  'graph_data' is not defined            no-undef
+  18:34  warning  'calculated_table' is not defined      no-undef
+  33:21  warning  'Chart' is not defined                 no-undef
+  36:21  warning  'label' is not defined                 no-undef
+  40:27  warning  'graph_data' is not defined            no-undef
+  52:27  warning  'graph_data1' is not defined           no-undef
+  85:30  warning  'selected_name' is not defined         no-undef
+  85:61  warning  'composition' is not defined           no-undef
+  85:73  warning  'selected_index' is not defined        no-undef
+  94:5   warning  'pol1_data' is not defined             no-undef
+  94:17  warning  'regression_linear' is not defined     no-undef
+  94:35  warning  'label' is not defined                 no-undef
+  94:42  warning  'graph_data' is not defined            no-undef
+  95:5   warning  'graph_data1' is not defined           no-undef
+  97:25  warning  'label' is not defined                 no-undef
+  98:9   warning  'graph_data1' is not defined           no-undef
+  98:26  warning  'pol1_data' is not defined             no-undef
+  98:41  warning  'label' is not defined                 no-undef
+  98:52  warning  'pol1_data' is not defined             no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/common.js
+   1:10  warning  'verify_values' is defined but never used                no-unused-vars
+  21:10  warning  'std_deviation' is defined but never used                no-unused-vars
+  26:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  43:10  warning  'ascending_random_array' is defined but never used       no-unused-vars
+  45:12  warning  Unexpected constant condition                            no-constant-condition
+  62:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/data.js
+   1:5   warning  'selected_color' is assigned a value but never used       no-unused-vars
+   2:5   warning  'selected_lambda' is assigned a value but never used      no-unused-vars
+   3:5   warning  'selected_slider_val' is assigned a value but never used  no-unused-vars
+   4:5   warning  'selected_voltage' is assigned a value but never used     no-unused-vars
+   5:5   warning  'selected_current' is assigned a value but never used     no-unused-vars
+   6:5   warning  'light_velocity' is assigned a value but never used       no-unused-vars
+   7:5   warning  'e' is assigned a value but never used                    no-unused-vars
+   8:5   warning  'color_array' is assigned a value but never used          no-unused-vars
+  45:5   warning  'drop_down_value' is assigned a value but never used      no-unused-vars
+  55:29  warning  'std_deviation' is not defined                            no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/dummy.js
+  2:14  warning  'Pannel' is not defined  no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/geomerty.js
+   33:49   warning  'lscale' is not defined          no-undef
+   34:49   warning  'lscale' is not defined          no-undef
+   46:23   warning  'pt1' is defined but never used  no-unused-vars
+   46:28   warning  'pt2' is defined but never used  no-unused-vars
+   46:33   warning  'pt3' is defined but never used  no-unused-vars
+   50:24   warning  'geo' is defined but never used  no-unused-vars
+   69:44   warning  'lscale' is not defined          no-undef
+   69:66   warning  'lscale' is not defined          no-undef
+   69:88   warning  'lscale' is not defined          no-undef
+   82:48   warning  'lscale' is not defined          no-undef
+   83:48   warning  'lscale' is not defined          no-undef
+  108:47   warning  'lscale' is not defined          no-undef
+  108:69   warning  'lscale' is not defined          no-undef
+  109:60   warning  'lscale' is not defined          no-undef
+  109:95   warning  'lscale' is not defined          no-undef
+  131:39   warning  'lscale' is not defined          no-undef
+  131:57   warning  'lscale' is not defined          no-undef
+  132:39   warning  'lscale' is not defined          no-undef
+  132:57   warning  'lscale' is not defined          no-undef
+  185:39   warning  'lscale' is not defined          no-undef
+  185:57   warning  'lscale' is not defined          no-undef
+  186:39   warning  'lscale' is not defined          no-undef
+  186:57   warning  'lscale' is not defined          no-undef
+  233:33   warning  'lscale' is not defined          no-undef
+  234:33   warning  'lscale' is not defined          no-undef
+  282:50   warning  'lscale' is not defined          no-undef
+  282:72   warning  'lscale' is not defined          no-undef
+  287:63   warning  'lscale' is not defined          no-undef
+  287:88   warning  'lscale' is not defined          no-undef
+  287:106  warning  'lscale' is not defined          no-undef
+  287:124  warning  'lscale' is not defined          no-undef
+  301:33   warning  'lscale' is not defined          no-undef
+  302:33   warning  'lscale' is not defined          no-undef
+  303:41   warning  'lscale' is not defined          no-undef
+  303:66   warning  'lscale' is not defined          no-undef
+  304:41   warning  'lscale' is not defined          no-undef
+  304:66   warning  'lscale' is not defined          no-undef
+  305:45   warning  'lscale' is not defined          no-undef
+  305:70   warning  'lscale' is not defined          no-undef
+  306:45   warning  'lscale' is not defined          no-undef
+  306:70   warning  'lscale' is not defined          no-undef
+  333:61   warning  'lscale' is not defined          no-undef
+  333:90   warning  'lscale' is not defined          no-undef
+  334:61   warning  'lscale' is not defined          no-undef
+  334:96   warning  'lscale' is not defined          no-undef
+  335:66   warning  'lscale' is not defined          no-undef
+  335:101  warning  'lscale' is not defined          no-undef
+  336:66   warning  'lscale' is not defined          no-undef
+  336:100  warning  'lscale' is not defined          no-undef
+  337:67   warning  'lscale' is not defined          no-undef
+  337:101  warning  'lscale' is not defined          no-undef
+  338:67   warning  'lscale' is not defined          no-undef
+  338:96   warning  'lscale' is not defined          no-undef
+  339:61   warning  'lscale' is not defined          no-undef
+  339:90   warning  'lscale' is not defined          no-undef
+  356:33   warning  'lscale' is not defined          no-undef
+  357:33   warning  'lscale' is not defined          no-undef
+  386:46   warning  'lscale' is not defined          no-undef
+  392:50   warning  'lscale' is not defined          no-undef
+  392:72   warning  'lscale' is not defined          no-undef
+  422:52   warning  'lscale' is not defined          no-undef
+  422:79   warning  'lscale' is not defined          no-undef
+  424:56   warning  'lscale' is not defined          no-undef
+  424:83   warning  'lscale' is not defined          no-undef
+  461:50   warning  'lscale' is not defined          no-undef
+  461:72   warning  'lscale' is not defined          no-undef
+  467:63   warning  'lscale' is not defined          no-undef
+  467:88   warning  'lscale' is not defined          no-undef
+  467:106  warning  'lscale' is not defined          no-undef
+  467:124  warning  'lscale' is not defined          no-undef
+  481:33   warning  'lscale' is not defined          no-undef
+  482:33   warning  'lscale' is not defined          no-undef
+  483:41   warning  'lscale' is not defined          no-undef
+  483:66   warning  'lscale' is not defined          no-undef
+  484:41   warning  'lscale' is not defined          no-undef
+  484:66   warning  'lscale' is not defined          no-undef
+  485:45   warning  'lscale' is not defined          no-undef
+  485:70   warning  'lscale' is not defined          no-undef
+  486:45   warning  'lscale' is not defined          no-undef
+  486:70   warning  'lscale' is not defined          no-undef
+  515:50   warning  'lscale' is not defined          no-undef
+  515:72   warning  'lscale' is not defined          no-undef
+  520:139  warning  'lscale' is not defined          no-undef
+  520:172  warning  'lscale' is not defined          no-undef
+  520:205  warning  'lscale' is not defined          no-undef
+  520:223  warning  'lscale' is not defined          no-undef
+  541:50   warning  'lscale' is not defined          no-undef
+  541:72   warning  'lscale' is not defined          no-undef
+  546:139  warning  'lscale' is not defined          no-undef
+  546:172  warning  'lscale' is not defined          no-undef
+  546:205  warning  'lscale' is not defined          no-undef
+  546:223  warning  'lscale' is not defined          no-undef
+  568:50   warning  'lscale' is not defined          no-undef
+  568:72   warning  'lscale' is not defined          no-undef
+  573:133  warning  'lscale' is not defined          no-undef
+  573:172  warning  'lscale' is not defined          no-undef
+  573:205  warning  'lscale' is not defined          no-undef
+  573:222  warning  'lscale' is not defined          no-undef
+  596:39   warning  'lscale' is not defined          no-undef
+  596:53   warning  'lscale' is not defined          no-undef
+  597:39   warning  'lscale' is not defined          no-undef
+  597:53   warning  'lscale' is not defined          no-undef
+  598:39   warning  'lscale' is not defined          no-undef
+  598:53   warning  'lscale' is not defined          no-undef
+  599:39   warning  'lscale' is not defined          no-undef
+  599:53   warning  'lscale' is not defined          no-undef
+  606:36   warning  'lscale' is not defined          no-undef
+  606:50   warning  'lscale' is not defined          no-undef
+  606:63   warning  'lscale' is not defined          no-undef
+  617:36   warning  'lscale' is not defined          no-undef
+  617:50   warning  'lscale' is not defined          no-undef
+  617:63   warning  'lscale' is not defined          no-undef
+  644:46   warning  'lscale' is not defined          no-undef
+  649:50   warning  'lscale' is not defined          no-undef
+  649:72   warning  'lscale' is not defined          no-undef
+  671:50   warning  'lscale' is not defined          no-undef
+  671:72   warning  'lscale' is not defined          no-undef
+  675:46   warning  'lscale' is not defined          no-undef
+  676:46   warning  'lscale' is not defined          no-undef
+  676:67   warning  'lscale' is not defined          no-undef
+  677:49   warning  'lscale' is not defined          no-undef
+  714:50   warning  'lscale' is not defined          no-undef
+  714:72   warning  'lscale' is not defined          no-undef
+  730:38   warning  'lscale' is not defined          no-undef
+  730:51   warning  'lscale' is not defined          no-undef
+  732:38   warning  'lscale' is not defined          no-undef
+  734:38   warning  'lscale' is not defined          no-undef
+  734:52   warning  'lscale' is not defined          no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/pannel.js
+    8:7  warning  'Pannel' is defined but never used  no-unused-vars
+  110:7  warning  'Table1' is defined but never used  no-unused-vars
+  152:7  warning  'Table2' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/scene.js
+   1:7    warning  'Scene' is defined but never used         no-unused-vars
+  11:9    warning  'context' is not defined                  no-undef
+  11:33   warning  'canvas' is not defined                   no-undef
+  11:47   warning  'canvas' is not defined                   no-undef
+  27:5    warning  'context' is not defined                  no-undef
+  28:9    warning  'grd' is assigned a value but never used  no-unused-vars
+  28:15   warning  'context' is not defined                  no-undef
+  28:44   warning  'canvas' is not defined                   no-undef
+  28:62   warning  'canvas' is not defined                   no-undef
+  28:84   warning  'canvas' is not defined                   no-undef
+  28:102  warning  'canvas' is not defined                   no-undef
+  28:121  warning  'canvas' is not defined                   no-undef
+  36:5    warning  'context' is not defined                  no-undef
+  37:5    warning  'context' is not defined                  no-undef
+  37:28   warning  'canvas' is not defined                   no-undef
+  37:42   warning  'canvas' is not defined                   no-undef
+  38:5    warning  'context' is not defined                  no-undef
+  39:5    warning  'context' is not defined                  no-undef
+
+/home/runner/work/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/exp-plancks-constant-from-kinetic-energy-versus-frequency-graph-iitb/experiment/simulation/js/test.js
+  2:14  warning  'Pannel' is not defined                     no-undef
+  4:5   warning  'table' is assigned a value but never used  no-unused-vars
+
+✖ 508 problems (0 errors, 508 warnings)
+
