@@ -1,1 +1,4 @@
-### Aim of the experiment
+## Aim
+
+Determination of Planck’s constant.
+

@@ -1,5 +1,5 @@
 let data_array = [];
-let btn_act4 = `<button id="panel1_btn" class="btn btn-primary" onclick="activity5()" style="position: absolute; bottom: 12vh; width: 85%;">Next</button>`;
+let btn_act4 = `<button id="panel1_btn" class="btn btn-primary" onclick="activity5()" style="bottom:12.5%;">Next</button>`;
 // function activity4() {
 //     pp.clearleftpannel();
 //     pp.clearrightpannel();
@@ -80,27 +80,49 @@ function activity4() {
     pp.clearrightpannel();
     pp.addoffcanvas(3);
     pp.showtitle("To determine the Planck's constant from kinetic energy versus frequency graph", 3);
-    let heading = ["Sr No.", "Color", "&lambda; (m)", "slider in cm", "Voltage (V)", "Current (mA)", `Plank's Constant x 10<sup>34</sup>`, "1/&lambda;", "Check"];
-    let verify_row = [["1", selected_color, selected_lambda.toString(), selected_slider_val.toString(), `<input type='text' class='form-control' id='v-inp' />`, `<input type='text' class='form-control' id='i-inp' />`, `<input type='text' class='form-control' id='h-inp' />`, `<input type='text' class='form-control' id='rl-inp' />`, `<input class='btn btn-primary' id='calc-verify' onclick='act4_verify();' value='Verify' />`]];
+    let heading = [
+        'Sr No.',
+        'Color',
+        '&lambda; (m)',
+        'slider in cm',
+        'Voltage (V)',
+        'Current (mA)',
+        '1/&lambda;',
+        `Plank's Constant (x10<sup>-34</sup>J.s)`,
+        'Check',
+    ];
+    let verify_row = [
+        [
+            '1',
+            selected_color,
+            selected_lambda.toString(),
+            selected_slider_val.toString(),
+            `<input type='text' class='form-control' id='v-inp' />`,
+            `<input type='text' class='form-control' id='i-inp' />`,
+            `<input type='text' class='form-control' id='rl-inp' />`,
+            `<input type='text' class='form-control' id='h-inp' />`,
+            `<input class='btn btn-primary' id='calc-verify' onclick='act4_verify();' value='Verify' />`,
+        ],
+    ];
     let table = new Table(heading, verify_row);
     pp.addtoleftpannel(table.template);
     table.draw();
     let right_panel_text = `
         <p>Velocity of Light C (m/s) = ${light_velocity}</p>
-        <p>e = ${e} x 10<sup>-19</sup></p>
+        <p>electron charge (e) = ${e} x 10<sup>-19</sup></p>
         <p>plank's Constant <span style='display: inline-block;'>$$h = \\frac{e}{C} &#10005;  &lambda;  &#10005;  voltage$$ </span> </p>
 
     `;
     pp.addtorightpannel(right_panel_text, 3);
     MathJax.typeset();
-    let bsOffcanvas = new bootstrap.Offcanvas(document.getElementById("offcanvasRight3"));
+    let bsOffcanvas = new bootstrap.Offcanvas(document.getElementById('offcanvasRight3'));
     bsOffcanvas.show();
 }
 function act4_verify() {
-    let val1 = document.getElementById('v-inp');
-    let val2 = document.getElementById('i-inp');
-    let val3 = document.getElementById('h-inp');
-    let val4 = document.getElementById('rl-inp');
+    let val1 = (document.getElementById('v-inp'));
+    let val2 = (document.getElementById('i-inp'));
+    let val3 = (document.getElementById('h-inp'));
+    let val4 = (document.getElementById('rl-inp'));
     console.log(selected_voltage, selected_current, (e / 3) * (selected_lambda * 10000000) * selected_voltage, 1 / selected_lambda);
     if (!verify_values(selected_voltage, parseFloat(val1.value))) {
         alert('Voltage value is not correct');
@@ -126,16 +148,29 @@ function load_full_table() {
     pp.clearrightpannel();
     pp.addoffcanvas(3);
     pp.showtitle("To determine the Planck's constant from kinetic energy versus frequency graph", 3);
-    let heading = ["Sr No.", "Color", "&lambda; (m) x 10<sup>7</sup>", "slider in cm", "Voltage (V)", "Current (mA)", `Plank's Constant x 10<sup>34</sup>`, "1/&lambda;"];
+    let heading = [
+        'Sr No.',
+        'Color',
+        '&lambda; (m) x 10<sup>7</sup>',
+        'slider in cm',
+        'Voltage (V)',
+        'Current (mA)',
+        `Plank's Constant (x10<sup>-34</sup>J.s)`,
+        '1/&lambda;',
+    ];
     for (let i = 0; i < drop_down_value.length; i++) {
         data_array[i] = [];
         data_array[i][0] = (i + 1).toString();
         data_array[i][1] = drop_down_value[i][0].toString();
         data_array[i][2] = (parseFloat(drop_down_value[i][1]) * 1e7).toString();
         data_array[i][3] = drop_down_value[i][2].toString();
-        data_array[i][4] = main_table_data[8 + i][1].toString();
-        data_array[i][5] = main_table_data[8 + i][2].toString();
-        data_array[i][6] = ((e / 3) * (parseFloat(drop_down_value[i][1]) * 10000000) * main_table_data[8 + i][1]).toFixed(4).toString();
+        data_array[i][4] = main_table_data[8 + i][1].toFixed(2);
+        data_array[i][5] = main_table_data[8 + i][2].toFixed(2);
+        data_array[i][6] = ((e / 3) *
+            (parseFloat(drop_down_value[i][1]) * 10000000) *
+            main_table_data[8 + i][1])
+            .toFixed(4)
+            .toString();
         data_array[i][7] = (1 / parseFloat(drop_down_value[i][1])).toFixed(0);
     }
     let table = new Table(heading, data_array);

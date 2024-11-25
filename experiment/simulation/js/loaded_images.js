@@ -1,7 +1,9 @@
 // 7 individual components for acitvity 1
 // images for simulation
 var assembly = new Image();
-assembly.src = './images/components/Assembly_transparent.webp';
+assembly.src = './images/components/ab1.webp';
+var assembly2 = new Image();
+assembly2.src = './images/components/ab2.webp';
 var led_yellow = new Image();
 led_yellow.src = './images/components/LED1.webp';
 var led_violet = new Image();
@@ -20,7 +22,7 @@ var rheostat_slider = new Image();
 rheostat_slider.src = './images/components/Rheostat01.webp';
 //components for activity1
 var ammeter = new Image();
-ammeter.src = './images/components/Ammeter.webp';
+ammeter.src = './images/components/Ammeter(1).webp';
 var battery = new Image();
 battery.src = './images/components/Asset_17.png';
 var one_way_key = new Image();
@@ -30,5 +32,5 @@ resistance.src = './images/components/resistance.webp';
 var rheostat = new Image();
 rheostat.src = './images/components/Rheostat01.webp';
 var voltmeter = new Image();
-voltmeter.src = './images/components/Voltmeter.webp';
+voltmeter.src = './images/components/Voltmeter(1).webp';
 //# sourceMappingURL=loaded_images.js.map
