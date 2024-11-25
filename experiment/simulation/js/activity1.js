@@ -8,7 +8,7 @@ var cc = (document.getElementById('pannelcreate'));
 var pp = new Pannel(cc);
 // pp.addoffcanvas(3);
 var act1_btn = document.createElement('div');
-act1_btn.innerHTML = `<button id="panel1_btn" class="btn btn-primary" onclick="move_to_activity3()" style="position: absolute; bottom: 12vh; width: 85%;">Next</button>`;
+act1_btn.innerHTML = `<button id="panel1_btn" class="btn btn-primary" onclick="move_to_activity3()">Next</button>`;
 var act1_start_button = document.createElement('div');
 act1_start_button.innerHTML = `<button id="panel1_btn" class="btn btn-primary" onclick="start_act1();">Start</button>`;
 function start_act1() {
