@@ -1,0 +1,38 @@
+[
+   {
+      "question": "Which of the following physical phenomenon is central to the experiment for finding Planck's constant using LEDs?",
+      "qid": 1,
+      "option_a": "The photoelectric effect.",
+      "option_b": "Electromagnetic induction.",
+      "option_c": "Diffraction of light.",
+      "option_d": "Nuclear fission.",
+      "correct_option": "a"
+   },
+   {
+      "question": "In the experiment with LEDs, what is the purpose of varying the voltage applied to the photocell?",
+      "qid": 2,
+      "option_a": "To control the color of the LED light.",
+      "option_b": "To change the intensity of the LED light.",
+      "option_c": "To adjust the wavelength of the LED light.",
+      "option_d": "To measure the energy of the emitted electrons.",
+      "correct_option": "d"
+   },
+   {
+      "question": "Why is it essential to use monochromatic light from LEDs in the experiment?",
+      "qid": 3,
+      "option_a": "To increase the intensity of the emitted light.",
+      "option_b": "To reduce the energy consumption of the experiment.",
+      "option_c": "To minimize interference from ambient light sources.",
+      "option_d": "To prevent damage to the photocell.",
+      "correct_option": "c"
+   },
+   {
+      "question": "Which of the following scientists proposed the theory of quantized energy?",
+      "qid": 4,
+      "option_a": "Max Planck",
+      "option_b": "Albert Einstein",
+      "option_c": "Niels Bohr",
+      "option_d": "Erwin Schrödinger",
+      "correct_option": "a"
+   }
+]

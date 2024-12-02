@@ -1,4 +1,1 @@
-## Aim
-
-Determination of Planck’s constant.
-
+<h2>To determine the Planck's constant from kinetic energy versus frequency graph</h2>

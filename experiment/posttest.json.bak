@@ -1,0 +1,38 @@
+[
+   {
+      "question": "How is the energy of the emitted electrons related to the frequency of the LED light used in the experiment?",
+      "qid": 1,
+      "option_a": "The energy of the emitted electrons is directly proportional to the frequency of the LED light.",
+      "option_b": "The energy of the emitted electrons is inversely proportional to the frequency of the LED light.",
+      "option_c": "The energy of the emitted electrons is not related to the frequency of the LED light.",
+      "option_d": "The energy of the emitted electrons is equal to the intensity of the LED light.",
+      "correct_option": "a"
+   },
+   {
+      "question": "Which of the following properties of the LED light is crucial to accurately determine Planck's constant?",
+      "qid": 2,
+      "option_a": "The color of the LED light.",
+      "option_b": "The temperature of the LED.",
+      "option_c": "The intensity of the LED light.",
+      "option_d": "The monochromatic nature of the LED light.",
+      "correct_option": "d"
+   },
+   {
+      "question": "During the experiment, you notice that increasing the intensity of the incident light does not change the stopping voltage. What can you conclude from this observation?",
+      "qid": 3,
+      "option_a": "The experiment is flawed, and the intensity setting should be adjusted.",
+      "option_b": "The photocell is malfunctioning, and the experiment should be stopped.",
+      "option_c": "The stopping voltage is independent of the incident light's intensity.",
+      "option_d": "The incident light's color should be changed to observe any effect on the stopping voltage.",
+      "correct_option": "c"
+   },
+   {
+      "question": "What is the expected outcome when the frequency of the LED light used in the experiment is increased while keeping other variables constant?",
+      "qid": 4,
+      "option_a": "The number of emitted electrons decreases.",
+      "option_b": "The energy of the emitted electrons decreases.",
+      "option_c": "The voltage applied to the photocell decreases.",
+      "option_d": "The energy of the emitted electrons increases.",
+      "correct_option": "d"
+   }
+]
