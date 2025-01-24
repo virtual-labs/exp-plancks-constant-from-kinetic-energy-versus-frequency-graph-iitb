@@ -1,9 +1,9 @@
-## Apparatus
+<h3>Apparatus</h3>
 0-10 V power supply, a one way key, a rheostat, a digital milliammeter, a   
 digital voltmeter, a 1 K resistor and different known wavelength LED’s (Light-Emitting Diodes).
 
  
-## Theory
+<h3> Theory </h3>
 
 Planck’s constant (h), a physical constant was introduced by German physicist named Max Planck in 1900. The significance of Planck’s constant is that ‘quanta’ (small packets of energy) can be determined by frequency of radiation and Planck’s constant. It describes the behavior of particle and waves at atomic level as well as the particle nature of light.
 
