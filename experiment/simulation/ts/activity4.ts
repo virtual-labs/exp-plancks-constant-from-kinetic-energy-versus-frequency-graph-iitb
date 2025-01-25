@@ -184,8 +184,8 @@ function act4_verify() {
 	console.log(
 		selected_voltage,
 		selected_current,
-		(e / 3) * (selected_lambda * 10000000) * selected_voltage,
-		1 / selected_lambda
+		1 / selected_lambda,
+		(e / 3) * (selected_lambda * 10000000) * selected_voltage
 	);
 
 	if (!verify_values(selected_voltage, parseFloat(val1.value))) {
