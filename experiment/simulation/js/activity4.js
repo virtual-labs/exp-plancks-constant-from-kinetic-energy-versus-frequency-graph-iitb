@@ -123,7 +123,7 @@ function act4_verify() {
     let val2 = (document.getElementById('i-inp'));
     let val3 = (document.getElementById('h-inp'));
     let val4 = (document.getElementById('rl-inp'));
-    console.log(selected_voltage, selected_current, (e / 3) * (selected_lambda * 10000000) * selected_voltage, 1 / selected_lambda);
+    console.log(selected_voltage, selected_current, 1 / selected_lambda, (e / 3) * (selected_lambda * 10000000) * selected_voltage);
     if (!verify_values(selected_voltage, parseFloat(val1.value))) {
         alert('Voltage value is not correct');
         return;
