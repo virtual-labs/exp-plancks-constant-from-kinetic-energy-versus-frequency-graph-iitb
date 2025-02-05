@@ -1,0 +1,1 @@
+<h2>To determine the Planck's constant from kinetic energy versus frequency graph</h2>
